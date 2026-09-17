@@ -21,4 +21,4 @@ This repository contains the required output for Asynchronous Activity 2. The pr
 Eric V. Tividad Jr. 🤓
 
 ## Course and Section
-CS0065 - Intelligent Systems | AN 42
+BSCSE-SE | AN 42
