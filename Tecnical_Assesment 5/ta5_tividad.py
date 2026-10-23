@@ -3,6 +3,8 @@ import string
 from textblob import TextBlob 
 from pathlib import Path
 
+# source for the dataset used in the challenged activity: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+
 def first_activity():
     sentences = []
     for i in range(9):
